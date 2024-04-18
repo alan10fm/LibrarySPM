@@ -6,13 +6,14 @@ import PackageDescription
 let package = Package(
     name: "NetkiSDKSPM",
     platforms: [
-        .iOS(.v17)
+        .iOS(.v17),
+        .macOS(.v10_12)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "NetkiSDKSPM",
-            targets: ["NetkiSDKSPM"]),
+            targets: ["NetkiSDKSPM", "NetkiSDK"]),
     ],
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
