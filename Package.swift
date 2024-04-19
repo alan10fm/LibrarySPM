@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "NetkiSDKSPM",
     platforms: [
-        .iOS(.v17),
-        .macOS(.v10_12)
+        .iOS(.v17)
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
@@ -16,16 +15,16 @@ let package = Package(
             targets: ["NetkiSDKSPM", "NetkiSDK"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/getsentry/sentry-cocoa.git", from: "8.22.4"),
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
-        .package(url: "https://github.com/devicekit/DeviceKit.git", from: "4.0.0")
+        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.2.2"),
+        .package(url: "https://github.com/devicekit/DeviceKit.git", from: "4.0.0"),
+        .package(url: "https://github.com/getsentry/sentry-cocoa", from: "8.22.4")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "NetkiSDKSPM",
-            dependencies: ["Alamofire", "DeviceKit", "Sentry"]
+            dependencies: [.product(name: "Sentry", package: "sentry-cocoa"), "Alamofire", "DeviceKit"]
         ),
         .testTarget(
             name: "NetkiSDKSPMTests",
