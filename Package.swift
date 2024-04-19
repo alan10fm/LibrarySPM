@@ -16,8 +16,8 @@ let package = Package(
             targets: ["NetkiSDKSPM", "NetkiSDK"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
         .package(url: "https://github.com/getsentry/sentry-cocoa.git", from: "8.22.4"),
+        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
         .package(url: "https://github.com/devicekit/DeviceKit.git", from: "4.0.0")
     ],
     targets: [
@@ -25,7 +25,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "NetkiSDKSPM",
-            dependencies: ["Alamofire", "DeviceKit"]
+            dependencies: ["Alamofire", "DeviceKit", "Sentry"]
         ),
         .testTarget(
             name: "NetkiSDKSPMTests",
