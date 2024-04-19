@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Alamofire/Alamofire.git",
       "state" : {
-        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
-        "version" : "5.9.1"
+        "revision" : "becd9a729a37bdbef5bc39dc3c702b99f9e3d046",
+        "version" : "5.2.2"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/devicekit/DeviceKit.git",
       "state" : {
-        "revision" : "d37e70cb2646666dcf276d7d3d4a9760a41ff8a6",
-        "version" : "4.9.0"
+        "revision" : "969bd6bf0350ac03e48d912777e1ce449c9ba77f",
+        "version" : "4.0.0"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/getsentry/sentry-cocoa",
       "state" : {
-        "revision" : "ef4fec9dfb8dd5027b09a4a5c9362feafd118e1a",
-        "version" : "8.24.0"
+        "revision" : "bf7bdd75e25556d0f97ad54fb804b4287863e106",
+        "version" : "8.22.4"
       }
     }
   ],

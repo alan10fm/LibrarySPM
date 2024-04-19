@@ -15,9 +15,9 @@ let package = Package(
             targets: ["NetkiSDKSPM", "NetkiSDK"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.2.2"),
-        .package(url: "https://github.com/devicekit/DeviceKit.git", from: "4.0.0"),
-        .package(url: "https://github.com/getsentry/sentry-cocoa", from: "8.22.4")
+        .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "5.2.2"),
+        .package(url: "https://github.com/devicekit/DeviceKit.git", exact: "4.0.0"),
+        .package(url: "https://github.com/getsentry/sentry-cocoa", exact: "8.22.4")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
