@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.license       = { :type => 'MIT' }
   s.author        = { 'NetkiSDK' => 'alan10fm@gmail.com' }
   s.source        = { :http => 'https://github.com/alan10fm/LibrarySPM.git' }
+  s.platform = :ios
   s.swift_version = '5.0'
   s.ios.deployment_target = '17.0'
 
