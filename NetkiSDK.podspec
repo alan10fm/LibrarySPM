@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   s.dependency 'DeviceKit', '~> 5.2.2'
 
   s.vendored_frameworks = 'NetkiSDK.xcframework'
+  s.use_frameworks!
 end
