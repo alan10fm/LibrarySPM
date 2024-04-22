@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage      = 'http://netki.com'
   s.license       = { :type => 'MIT' }
   s.author        = { 'NetkiSDK' => 'alan10fm@gmail.com' }
-  s.source        = { :http => 'https://github.com/alan10fm/LibrarySPM/raw/main/NetkiSDK.zip' }
+  s.source        = { :http => 'https://github.com/alan10fm/LibrarySPM/raw/test8/NetkiSDK.zip' }
   s.swift_version = '5.0'
   s.ios.deployment_target = '17.0'
 
