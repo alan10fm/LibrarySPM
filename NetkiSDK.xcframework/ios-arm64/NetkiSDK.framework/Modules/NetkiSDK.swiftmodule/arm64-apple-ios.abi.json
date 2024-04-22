@@ -43664,175 +43664,175 @@
       "value": "1"
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/AddressEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/AddressEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 15,
       "value": "\"AddressEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/AppContextEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/AppContextEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 381,
       "length": 18,
       "value": "\"AppContextEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BarcodeEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BarcodeEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 15,
       "value": "\"BarcodeEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BusinessContextEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BusinessContextEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 23,
       "value": "\"BusinessContextEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BusinessMetadataEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/BusinessMetadataEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 405,
       "length": 24,
       "value": "\"BusinessMetadataEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/CallingCodeEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/CallingCodeEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 385,
       "length": 19,
       "value": "\"CallingCodeEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/CountryEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/CountryEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 369,
       "length": 15,
       "value": "\"CountryEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"DocumentEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentLivenessCrossRef+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentLivenessCrossRef+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 413,
       "length": 26,
       "value": "\"DocumentLivenessCrossRef\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentWithLivenessEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/DocumentWithLivenessEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 28,
       "value": "\"DocumentWithLivenessEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/EmailEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/EmailEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 361,
       "length": 13,
       "value": "\"EmailEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/IdentityEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/IdentityEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"IdentityEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/LivenessActionAttemptEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/LivenessActionAttemptEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 425,
       "length": 29,
       "value": "\"LivenessActionAttemptEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/LivenessSettingsEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/LivenessSettingsEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 405,
       "length": 24,
       "value": "\"LivenessSettingsEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/PassportEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/PassportEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 16,
       "value": "\"PassportEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/PhoneNumberEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/PhoneNumberEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 385,
       "length": 19,
       "value": "\"PhoneNumberEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldChoicesCrossRef+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldChoicesCrossRef+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 429,
       "length": 30,
       "value": "\"RequiredFieldChoicesCrossRef\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldChoicesEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldChoicesEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 28,
       "value": "\"RequiredFieldChoicesEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 393,
       "length": 21,
       "value": "\"RequiredFieldEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldOptionEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldOptionEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 27,
       "value": "\"RequiredFieldOptionEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldOptionsCrossRef+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldOptionsCrossRef+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 429,
       "length": 30,
       "value": "\"RequiredFieldOptionsCrossRef\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldWithOptionsEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/RequiredFieldWithOptionsEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 32,
       "value": "\"RequiredFieldWithOptionsEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionContextEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionContextEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 413,
       "length": 26,
       "value": "\"TransactionContextEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionIdentityEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionIdentityEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 27,
       "value": "\"TransactionIdentityEntity\""
     },
     {
-      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/Pods-dfasrihvzdtmmyfhibikrvwskvkg\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionInfoEntity+CoreDataProperties.swift",
+      "filePath": "\/Users\/alan\/Library\/Developer\/Xcode\/DerivedData\/NetkiSDK-cyzgnbljjpgzbxgiexptxyyfqunz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/NetkiSDK\/IntermediateBuildFilesPath\/Pods.build\/Release-iphoneos\/NetkiSDK.build\/DerivedSources\/CoreDataGenerated\/Model\/TransactionInfoEntity+CoreDataProperties.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 23,
