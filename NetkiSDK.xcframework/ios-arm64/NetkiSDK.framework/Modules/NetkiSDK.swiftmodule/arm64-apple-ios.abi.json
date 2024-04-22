@@ -40487,8 +40487,15 @@
     },
     {
       "filePath": "\/Users\/alan\/Documents\/projects\/onboardid-ios\/NetkiSDK\/Classes\/OnBoardId.swift",
+      "kind": "StringLiteral",
+      "offset": 894,
+      "length": 14,
+      "value": "\"just to test\""
+    },
+    {
+      "filePath": "\/Users\/alan\/Documents\/projects\/onboardid-ios\/NetkiSDK\/Classes\/OnBoardId.swift",
       "kind": "Dictionary",
-      "offset": 4061,
+      "offset": 4091,
       "length": 3,
       "value": "[]"
     },
