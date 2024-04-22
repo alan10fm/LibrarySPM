@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.ios.deployment_target = '17.0'
 
-  s.dependency 'Alamofire', '~> 5.8.0'
-  s.dependency 'Sentry', '~> 8.22.4'
-  s.dependency 'DeviceKit', '~> 5.2.2'
+  s.dependency 'Alamofire', '== 5.8.0'
+  s.dependency 'Sentry', '== 8.22.4'
+  s.dependency 'DeviceKit', '== 5.2.2'
 
   s.vendored_frameworks = 'NetkiSDK.xcframework'
 end
