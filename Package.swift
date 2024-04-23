@@ -11,13 +11,10 @@ let package = Package(
             name: "NetkiSDK",
             targets: ["NetkiSDK"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "5.8.0"),
-    ],
     targets: [
         .target(
             name: "NetkiSDK",
-            dependencies: ["NetkiSDKBinary", "Alamofire"]
+            dependencies: ["NetkiSDKBinary"]
         ),
         .binaryTarget(
             name: "NetkiSDKBinary",
