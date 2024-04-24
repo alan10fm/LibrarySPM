@@ -1,0 +1,124 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "LibraryPackage",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LibrarySPM",
+        "printedName": "LibrarySPM",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LibrarySPM",
+                "printedName": "LibraryPackage.LibrarySPM",
+                "usr": "s:14LibraryPackage0A3SPMC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14LibraryPackage0A3SPMCACycfc",
+            "mangledName": "$s14LibraryPackage0A3SPMCACycfc",
+            "moduleName": "LibraryPackage",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "isConnected",
+            "printedName": "isConnected()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14LibraryPackage0A3SPMC11isConnectedSSyF",
+            "mangledName": "$s14LibraryPackage0A3SPMC11isConnectedSSyF",
+            "moduleName": "LibraryPackage",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "versions",
+            "printedName": "versions()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14LibraryPackage0A3SPMC8versionsSSyF",
+            "mangledName": "$s14LibraryPackage0A3SPMC8versionsSSyF",
+            "moduleName": "LibraryPackage",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14LibraryPackage0A3SPMC",
+        "mangledName": "$s14LibraryPackage0A3SPMC",
+        "moduleName": "LibraryPackage",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/alan\/Documents\/Test\/LibraryPackage\/Sources\/LibrarySPM\/LibrarySPM.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 6,
+      "value": "\"Yes!\""
+    },
+    {
+      "filePath": "\/Users\/alan\/Documents\/Test\/LibraryPackage\/Sources\/LibrarySPM\/LibrarySPM.swift",
+      "kind": "StringLiteral",
+      "offset": 313,
+      "length": 36,
+      "value": "\"Alamo: \""
+    },
+    {
+      "filePath": "\/Users\/alan\/Documents\/Test\/LibraryPackage\/Sources\/LibrarySPM\/LibrarySPM.swift",
+      "kind": "StringLiteral",
+      "offset": 348,
+      "length": 1,
+      "value": "\"\""
+    }
+  ]
+}
