@@ -4,23 +4,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "OnboardId-ios",
-    platforms: [
-        .iOS(.v17)
-    ],
+    name: "LibrarySPM",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "OnboardId-ios",
-            targets: ["OnboardId-ios"]),
+            name: "LibrarySPM",
+            targets: ["LibrarySPM"]),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "OnboardId-ios"),
+            name: "LibrarySPM"),
         .testTarget(
-            name: "OnboardId-iosTests",
-            dependencies: ["OnboardId-ios"]),
+            name: "LibrarySPMTests",
+            dependencies: ["LibrarySPM"]),
     ]
 )

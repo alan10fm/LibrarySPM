@@ -1,7 +1,7 @@
 import XCTest
-@testable import OnboardId_ios
+@testable import LibrarySPM
 
-final class OnboardId_iosTests: XCTestCase {
+final class LibrarySPMTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
