@@ -2,6 +2,8 @@
 // https://docs.swift.org/swift-book
 
 import Alamofire
+import Sentry
+import DeviceKit
 
 public class LibrarySPM {
     
@@ -11,7 +13,7 @@ public class LibrarySPM {
         return "Yes!"
     }
     
-    public func alamoFire() -> String {
-        return Alamofire.AFInfo.version
+    public func versions() -> String {
+        return "Alamo: \(Alamofire.AFInfo.version), Sentry: \(SentrySDK.version()), DeviceKit: \(Device.current)"
     }
 }
