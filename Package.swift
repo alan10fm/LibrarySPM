@@ -27,10 +27,6 @@ let package = Package(
                 "DeviceKit",
             ]
         ),
-        .binaryTarget(
-            name: "NetkiSDK",
-            path: "xcframework/NetkiSDK.xcframework"
-        ),
         .testTarget(
             name: "LibrarySPMTests",
             dependencies: ["LibrarySPM"]),
