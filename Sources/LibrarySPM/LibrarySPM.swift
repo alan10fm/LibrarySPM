@@ -1,10 +1,9 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 //
-//import Alamofire
-//import Sentry
-//import DeviceKit
-//import NetkiSDK
+import Alamofire
+import Sentry
+import DeviceKit
 
 public class LibrarySPM {
     
@@ -14,7 +13,7 @@ public class LibrarySPM {
         return "Yes!"
     }
     
-//    public func versions() -> String {
-//        return "Alamo: \(Alamofire.AFInfo.version), Sentry: \(SentrySDK.version()), DeviceKit: \(Device.current)"
-//    }
+    public func versions() -> String {
+        return "Alamo: \(Alamofire.AFInfo.version), Sentry: \(SentrySDK.version()), DeviceKit: \(Device.current)"
+    }
 }
