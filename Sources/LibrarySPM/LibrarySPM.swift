@@ -4,6 +4,7 @@
 import Alamofire
 import Sentry
 import DeviceKit
+import NetkiSDK
 
 public class LibrarySPM {
     

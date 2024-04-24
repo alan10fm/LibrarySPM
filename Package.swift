@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "LibrarySPM",
-            targets: ["LibrarySPM"]),
+            targets: ["LibrarySPM", "NetkiSDK"]),
     ],
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
@@ -24,8 +24,13 @@ let package = Package(
             dependencies: [
                 .product(name: "Sentry", package: "sentry-cocoa"),
                 "Alamofire",
-                "DeviceKit"
+                "DeviceKit",
+                "NetkiSDK"
             ]
+        ),
+        .binaryTarget(
+            name: "NetkiSDK",
+            path: "xcframework/NetkiSDK.xcframework"
         ),
         .testTarget(
             name: "LibrarySPMTests",
