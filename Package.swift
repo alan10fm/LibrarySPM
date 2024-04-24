@@ -11,22 +11,21 @@ let package = Package(
             name: "LibrarySPM",
             targets: ["LibrarySPM", "NetkiSDK"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
-        .package(url: "https://github.com/getsentry/sentry-cocoa", .upToNextMajor(from: "8.24.0")),
-        .package(url: "https://github.com/devicekit/DeviceKit.git", .upToNextMajor(from: "4.0.0"))
-    ],
+//    dependencies: [
+//        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.9.1")),
+//        .package(url: "https://github.com/getsentry/sentry-cocoa", .upToNextMajor(from: "8.24.0")),
+//        .package(url: "https://github.com/devicekit/DeviceKit.git", .upToNextMajor(from: "4.0.0"))
+//    ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "LibrarySPM",
-            dependencies: [
-                .product(name: "Sentry", package: "sentry-cocoa"),
-                "Alamofire",
-                "DeviceKit",
-                "NetkiSDK"
-            ]
+            name: "LibrarySPM"
+//            dependencies: [
+//                .product(name: "Sentry", package: "sentry-cocoa"),
+//                "Alamofire",
+//                "DeviceKit",
+//            ]
         ),
         .binaryTarget(
             name: "NetkiSDK",
