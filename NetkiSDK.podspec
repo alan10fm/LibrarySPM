@@ -12,8 +12,7 @@ Pod::Spec.new do |s|
   # XCFramework
   s.vendored_frameworks = 'NetkiSDK.xcframework'
   
-  # Other dependencies
-  s.dependency 'Alamofire', '~> 5.8.0'
+  # Other dependencies]
   s.dependency 'Sentry', '~> 8.22.4'
   s.dependency 'DeviceKit', '~> 5.2.2'
 end
