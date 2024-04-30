@@ -9,10 +9,11 @@ Pod::Spec.new do |s|
   s.swift_version    = '5.0'
 
   s.ios.deployment_target = '11.0'
-  # XCFramework
+  
+  # NetkiSDK
   s.vendored_frameworks = 'NetkiSDK.xcframework'
   
-  # Other dependencies]
+  # Dependencies
   s.dependency 'Sentry', '~> 8.22.4'
   s.dependency 'DeviceKit', '~> 5.2.2'
 end
