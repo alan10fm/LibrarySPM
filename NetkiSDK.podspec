@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'Sentry', '~> 8.22.4'
   s.dependency 'DeviceKit', '~> 5.2.2'
 
-  spec.script_phase = {
+  s.script_phase = {
     :name => 'Add Camera Permission',
     :script => <<-SCRIPT
       echo "Checking for camera permission..."
