@@ -12,6 +12,9 @@ Pod::Spec.new do |s|
   
   # NetkiSDK
   s.vendored_frameworks = 'NetkiSDK.xcframework'
+
+  # Add permissions
+  s.ios.permission 'NSCameraUsageDescription', 'This NetkiSDK requires access to the camera to take photos.'
   
   # Dependencies
   s.dependency 'Sentry', '~> 8.22.4'
