@@ -16,18 +16,4 @@ Pod::Spec.new do |s|
   # Dependencies
   s.dependency 'Sentry', '~> 8.22.4'
   s.dependency 'DeviceKit', '~> 5.2.2'
-
-  s.script_phase = {
-    :name => 'Add Camera Permission',
-    :script => <<-SCRIPT
-      echo "Checking for camera permission..."
-      if ! plistbuster --get "NSCameraUsageDescription" | grep -q "This app needs access to your camera to scan documents."; then
-        echo "Adding camera permission..."
-        plistbuster --add "NSCameraUsageDescription" --string "This app needs access to your camera to scan documents."
-      else
-        echo "Camera permission already declared."
-      fi
-    SCRIPT
-  }
-
 end
